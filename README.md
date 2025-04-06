@@ -1,5 +1,5 @@
 # Spotify-Data-Processing-Project-
-This project creates a Spotify data analysis project based on the images you've shared. It analyses Spotify track data to discover patterns in audio features, popularity, and genres.
+This project creates a Spotify data analysis project based on the images you've shared. It analyses Spotify track data to discover patterns in audio features, popularity, and genres. Note that results will be saved in images folder.
 
 ## Prerequisites
 
