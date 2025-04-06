@@ -27,7 +27,16 @@ This project creates a Spotify data analysis project based on the images you've 
 
 2. Install required packages:
     ```
-    pip install -r requirements.txt
+    pip install pandas numpy matplotlib seaborn
+    ```
+        ```
+    pip install spotipy
+    ```
+        ```
+    pip install scikit-learn
+    ```
+        ```
+    pip install python-dotenv
     ```
 
 3. Run the script:
