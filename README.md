@@ -1,5 +1,5 @@
 # Spotify-Data-Processing-Project-
-This project creates a Spotify data analysis project based on the images you've shared. It analyses Spotify track data to discover patterns in audio features, popularity, and genres. Note that results will be saved in images folder. This is basically for _audiophiles_
+This project creates a Spotify data analysis project based on the images you've shared. It analyses Spotify track data to discover patterns in audio features, popularity, and genres. Note that results will be saved in images folder. This is basically for _audiophiles_.
 
 • _audio·phile_: a person with love for, affinity towards or obsession with high-quality playback of sound and music.
 
@@ -46,7 +46,7 @@ This project creates a Spotify data analysis project based on the images you've 
     The script will generate all visualisations.
 
 ## Output files
-The script generates several visualizations:
+Data visualizations:
 1. ```correlation_heatmap.png``` - Correlation between audio features
     Louder tracks (Strong Positive ~0.8): Louder tracks tend to be more energetic
     Acoustic tracks (Strong Negative ~-0.7): Acoustic tracks typically have lower energy
