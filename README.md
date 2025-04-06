@@ -1,5 +1,5 @@
 # Spotify-Data-Processing-Project-
-This project creates a Spotify data analysis project based on the images you've shared. It analyses Spotify track data to discover patterns in audio features, popularity, and genres. Note that results will be saved in images folder. This is basically for _audiophiles_.
+This project creates a Spotify data analysis project which analyses Spotify track data to discover patterns in audio features, popularity, and genres. Note that results will be saved in images folder. This is basically for _audiophiles_.
 
 • _audio·phile_: a person with love for, affinity towards or obsession with high-quality playback of sound and music.
 
